@@ -1,0 +1,15 @@
+<resources>
+    <string name="myFileprovider">pl.musiclist.fileprovider</string>
+
+    <string name="app_name">Music List</string>
+    <string name="delete_question">Czy na pewno chcesz usunąć utwór?</string>
+    <string name="yes">Tak</string>
+    <string name="cancel">Anuluj</string>
+    <string name="title">Tytuł</string>
+    <string name="author">Autor</string>
+    <string name="year">Rok wydania</string>
+    <string name="add">Dodaj</string>
+    <string name="invalid_year">Wprowadzono niepoprawny rok wydania.</string>
+    <string name="enter_title">Wprowadź tytuł utworu.</string>
+    <string name="enter_author">Wprowadź autora utworu.</string>
+</resources>
